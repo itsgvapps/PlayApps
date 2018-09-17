@@ -36,20 +36,6 @@
       "PACKAGE_NAME": "com.gvapps.stoicism",
       "ICON_URL": "https://itsgvapps.github.io/PlayApps/positive_quotes.png",
       "RATING": "4.8"
-    },
-    {
-      "NAME": "Daily Stoicism",
-      "DESCRIPTION": "👑 The best quotes by famous stoics - Marcus Aurelius, Seneca, Epictetus, Zeno 🏆",
-      "PACKAGE_NAME": "com.gvapps.lifequotesandsayings",
-      "ICON_URL": "https://itsgvapps.github.io/PlayApps/stoicism_quotes.png",
-      "RATING": "4.8"
-    },
-    {
-      "NAME": "All-In-One Unit Converter",
-      "DESCRIPTION": "👑  All in one Unit Converter | 75+ categories | 2000 units | 160 currencies 🏆",
-      "PACKAGE_NAME": "com.gvapps.unitconverter",
-      "ICON_URL": "https://itsgvapps.github.io/PlayApps/unitconverter.png",
-      "RATING": "4.8"
     }
   ]
 }
