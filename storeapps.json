@@ -1,25 +1,25 @@
 {
   "show": "true",
   "noOfItems": "5",
-  "heading":"TRENDING AAPPS ON GOOGLE PLAY",
+  "heading": "TRENDING AAPPS ON GOOGLE PLAY",
   "appsList": [
     {
       "NAME": "Wisdom Quotes: Wise Words",
-      "DESCRIPTION": "The Best handpicked thousands of incredible Wisdom Quotes and Wise Words",
+      "DESCRIPTION": "The Best handpicked thousands of incredible Wisdom Quotes",
       "PACKAGE_NAME": "com.gvapps.wisdomquotes",
       "ICON_URL": "https://itsgvapps.github.io/PlayApps/wisdom_quotes.png",
-      "RATING": "4.8⭐"
+      "RATING": "4.8⋆"
     },
     {
       "NAME": "Latest Hindi Status 2018",
-      "DESCRIPTION": "New 100000+ Best Hindi status quotes, shayari, love & Bollywood status 2018",
+      "DESCRIPTION": "Get the Best Hindi status quotes, shayari, love & Bollywood status",
       "PACKAGE_NAME": "com.gvapps.hindistatusquotes",
       "ICON_URL": "https://itsgvapps.github.io/PlayApps/hindi_status.png",
-      "RATING": "4.8⭐"
+      "RATING": "4.8⋆"
     },
     {
       "NAME": "Deep Love Quotes",
-      "DESCRIPTION": "100000+ The Best hand picked LOVE Quotes, Messages & Poems for your love",
+      "DESCRIPTION": "The Best hand picked LOVE Quotes, Messages & Poems for your love",
       "PACKAGE_NAME": "com.gvapps.lovequotesmessages",
       "ICON_URL": "https://itsgvapps.github.io/PlayApps/love-quotes.png",
       "RATING": "4.8⋆"
@@ -36,6 +36,20 @@
       "DESCRIPTION": "Get the Best Positive quotes to brighten your day and stay Positive",
       "PACKAGE_NAME": "com.gvapps.stoicism",
       "ICON_URL": "https://itsgvapps.github.io/PlayApps/positive_quotes.png",
+      "RATING": "4.8⋆"
+    },
+    {
+      "NAME": "Daily Stoicism",
+      "DESCRIPTION": "Famous stoics quotes - Marcus Aurelius, Seneca, Epictetus, Zeno",
+      "PACKAGE_NAME": "com.gvapps.lifequotesandsayings",
+      "ICON_URL": "https://itsgvapps.github.io/PlayApps/stoicism_quotes.png",
+      "RATING": "4.8⋆"
+    },
+    {
+      "NAME": "All-In-One Unit Converter",
+      "DESCRIPTION": "All in one Unit Converter | 75+ categories | 2000 units | 160 currencies",
+      "PACKAGE_NAME": "com.gvapps.unitconverter",
+      "ICON_URL": "https://itsgvapps.github.io/PlayApps/unitconverter.png",
       "RATING": "4.8⋆"
     }
   ]
